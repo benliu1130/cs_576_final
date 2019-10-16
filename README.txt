@@ -1,3 +1,4 @@
+Please refer to "ProjectDescription.pdf" for the spec of this project
 To Compile:
    1. Use command javac *.java to compile all .java files.
 
