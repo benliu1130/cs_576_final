@@ -1,0 +1,34 @@
+Video file description for Fall/2009 project
+
+Each video file consists of series of rgb format images that we used in previous assignments.
+For example, 5 sec video of 12 frames/sec (static_camera2.576v) consists of 60 rgb format images which size is 480x368.
+  
+  static_camera2.576v : 
+	size : 480x368
+	frame rate : 12 frames/sec
+	duration : 5 sec
+	contents : static camera version
+
+  static_camera3.576v : 
+	size : 480x368
+	frame rate : 12 frames/sec
+	duration : 7 sec
+	contents : static camera version
+
+  moving_camera2.576v : 
+	size : 480x368
+	frame rate : 12 frames/sec
+	duration : 5 sec
+	contents : moving camera version
+
+  moving_camera3.576v : 
+	size : 480x368
+	frame rate : 12 frames/sec
+	duration : 6 sec
+	contents : moving camera version
+
+  moving_camera4.576v : 
+	size : 480x368
+	frame rate : 12 frames/sec
+	duration : 8 sec
+	contents : moving camera version
