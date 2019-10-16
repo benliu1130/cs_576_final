@@ -9,8 +9,9 @@ To Run:
       p.s. quantization step 0 has best visual quality, when it goes higher, the visual quality becomes worse
            but use less bytes to store the pixels
       e.x. java -Xmx512m MyEncoder moving_camera3.576v 0 8
-      When encoding is done, you will see a pop-up window, and the encoded video in the same folder as input_video with .cmp extension.
-      Close the pop-up window to stop the program if you don't want to watch it now.
+      When encoding is done, you will see a pop-up window
+      The encoded video will be generated in the same folder as input_video with '.cmp' extension.
+      Close the pop-up window to stop the program unless you only want to watch the original video.
    2. Use command "java -Xmx256m MyDecoder input_video encoded_video" to play both.
       e.x. java -Xmx512m MyDecoder moving_camera3.576v moving_camera3.576v.cmp
       You will see a pop-up window, which shows you original video and encoded video side by side.
